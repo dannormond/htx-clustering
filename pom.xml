@@ -4,7 +4,6 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>edu.illinois.htx.cluster</groupId>
-	<artifactId>culster</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -73,4 +72,5 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	<artifactId>htx-cluster</artifactId>
 </project>
